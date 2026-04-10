@@ -29,4 +29,4 @@ Apesar de ser um excelente exercício de lógica, este método possui limitaçõ
 **-Simplicidade:** Ao contrário de sistemas modernos ou da própria Enigma, este código não utiliza chaves complexas ou múltiplas camadas de embaralhamento.
 
 
-![sla](https://upload.wikimedia.org/wikipedia/commons/2/29/Linux_command-line._Bash._GNOME_Terminal._screenshot.png)
+
