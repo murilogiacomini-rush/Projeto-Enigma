@@ -2,6 +2,8 @@
 
 ## 🎯 Projeto-Enigma
 
+Repositório projeto enigma TI 1B
+
 - 🔓 Descriptografia da Cifra de César
 ---
 
@@ -13,7 +15,6 @@
 
 ---
 
-Repositório projeto enigma TI. 1B
 
 [Como o programa funciona.md](https://github.com/user-attachments/files/26636145/Como.o.programa.funciona.md)
 ## **Como o programa funciona?**
