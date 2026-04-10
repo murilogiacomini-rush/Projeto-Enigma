@@ -1,4 +1,18 @@
-# Projeto-Enigma
+---
+
+## 🎯 Projeto-Enigma
+
+- 🔓 Descriptografia da Cifra de César
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- Linguagem C  
+- Compilador (CodeBlocks)  
+- Git e GitHub  
+
+---
+
 Repositório projeto enigma TI. 1B
 
 [Como o programa funciona.md](https://github.com/user-attachments/files/26636145/Como.o.programa.funciona.md)
